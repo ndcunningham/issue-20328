@@ -72,7 +72,7 @@ export default async function Index() {
                   />
                 </svg>
                 <span>
-                  Documentation
+                  Documentationx
                   <span> Everything is in there </span>
                 </span>
                 <svg
